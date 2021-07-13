@@ -28,3 +28,17 @@ body {
   text-decoration: none;
   padding: 15px;
 }
+
+.informacion {
+    display: flex;
+}
+
+.datos p{
+    margin-left: 20px;
+    font-size: 20px;
+    width: 120%;
+    background-color: black;
+    color: white;
+    padding: 20px 80px 20px 80px;
+    text-align: justify;
+}
