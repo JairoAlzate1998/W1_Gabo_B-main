@@ -29,6 +29,10 @@ body {
   padding: 15px;
 }
 
+.imagen{
+  margin-left: 60px;
+}
+
 .informacion {
     display: flex;
 }
@@ -36,10 +40,10 @@ body {
 .datos p{
     margin-left: 20px;
     font-size: 20px;
-    width: 76%;
+    width: 74%;
     background-color: black;
     color: white;
-    padding: 20px 50px 20px 50px;
+    padding: 20px 60px 10px 60px;
     text-align: justify;
 }
 
@@ -50,6 +54,7 @@ body {
 
 .tabla-informacion p{
   margin-bottom: 20px;
+  margin-top: 20px;
   font-size: 20px;
 }
 
@@ -59,7 +64,7 @@ h2 {
 }
 
 .tabla-contenido{
-  background-color: #f38902;
+  background-color: rgb(209, 205, 199);
   margin:0 auto;
 }
 
