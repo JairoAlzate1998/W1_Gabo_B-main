@@ -36,9 +36,44 @@ body {
 .datos p{
     margin-left: 20px;
     font-size: 20px;
-    width: 120%;
+    width: 76%;
     background-color: black;
     color: white;
-    padding: 20px 80px 20px 80px;
+    padding: 20px 50px 20px 50px;
     text-align: justify;
+}
+
+.tabla-informacion {
+  width: max-content;
+  margin:0 auto 50px;
+}
+
+.tabla-informacion p{
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  padding: 10px;
+}
+
+.tabla-contenido{
+  background-color: #f38902;
+  margin:0 auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 5px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px 100px 70px 100px;
 }
